@@ -7,8 +7,8 @@
 
 ## 🔥 About Me
 
-Hi! 👋 I’m *Rahil Mulani, a passionate **Tech Enthusiast* pursuing *B.Tech in Information Technology*.  
-I have hands-on experience in *Data Analytics and Web Development, and I’m on a mission to master **DSA* and *Development* to achieve my career goal*.  
+Hi! 👋 I’m *Rahil Mulani*, a passionate *Tech Enthusiast* pursuing *B.Tech in Information Technology*.  
+I have hands-on experience in *Data Analytics and Web Development*, and I’m on a mission to master *DSA* and *Development* to achieve my career goal*.  
 
 💡 *Highlights*:  
 - 🎯 Focus Areas: Data Science, Analytics, Full-Stack Development  
