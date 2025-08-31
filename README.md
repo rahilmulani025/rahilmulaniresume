@@ -28,7 +28,7 @@ I have hands-on experience in *Data Analytics and Web Development*, and I’m on
 
 | Resume Type | Highlights | 📂 File Link |
 |------------|------------|-------------|
-| 📊 *Data Science & Analytics Resume* | EDA, Feature Engineering, SQL, Visualization, Business Analytics | [🔗 View / Download](./Data_Science_Analytics_Resume.pdf) |
+| 📊 *Data Science & Analytics Resume* | EDA, Feature Engineering, SQL, Visualization, Business Analytics | [🔗 View / Download](./https://drive.google.com/file/d/1QlBi0LNriPxV2VHfvTsJsgX4QCR4nG--/view?usp=drivesdk) |
 | 🌐 *Web Development Resume* | Frontend & Backend Development, Responsive Design, Projects & Internships | [🔗 View / Download](./Web_Development_Resume.pdf) |
 
 ---
